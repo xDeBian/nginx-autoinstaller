@@ -6,6 +6,18 @@ GREEN='\033[0;32m'   # Green color
 RED='\033[0;31m'     # Red color
 CYAN='\033[0;36m'    # Cyan color
 NC='\033[0m'         # No color
+                                                                                                                          
+
+echo "       _____       ____  _  "           
+echo "      |  __ \     |  _ \(_)  "          
+echo " __  _| |  | | ___| |_) |_  __ _ _ __"  
+echo " \ \/ / |  | |/ _ \  _ <| |/ _  |  _ \ " 
+echo "  >  <| |__| |  __/ |_) | | (_| | | | | "
+echo " /_/\_\_____/ \___|____/|_|\__ _|_| |_| "
+echo "                                        "
+                                       
+
+
 
 # Function to check if a command exists
 command_exists() {
